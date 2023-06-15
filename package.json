@@ -1,0 +1,18 @@
+{
+  "name": "elasticsearch-first-project",
+  "version": "1.0.0",
+  "description": "project to contains how to use elasticsearch with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "elasticsearch"
+  ],
+  "author": "Alejandro Soto",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.8.1",
+    "elasticsearch": "^16.7.3"
+  }
+}
